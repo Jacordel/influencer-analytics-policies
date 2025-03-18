@@ -6,8 +6,8 @@ This repository contains the **Privacy Policy** and **Terms of Service** for the
 These legal documents are required for **TikTok Developer API approval** and ensure compliance with data privacy standards.
 
 ## 📌 Documents
-- **Privacy Policy:** [Click Here](https://yourusername.github.io/influencer-analytics-policies/privacy-policy.html)
-- **Terms of Service:** [Click Here](https://yourusername.github.io/influencer-analytics-policies/terms-of-service.html)
+- **Privacy Policy:** [Click Here](https://jacordel.github.io/influencer-analytics-policies/privacy-policy.html)
+- **Terms of Service:** [Click Here](https://jacordel.github.io/influencer-analytics-policies/terms-of-service.html)
 
 ## 🔍 Why This Repository Exists
 - ✅ Provides **publicly accessible legal documents** for TikTok API approval.
